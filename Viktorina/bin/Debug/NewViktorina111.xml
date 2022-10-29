@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Viktorina>
+  <Id>йцук</Id>
+  <Question>фыва</Question>
+  <CorrectAnswer>ячсм</CorrectAnswer>
+  <Viktorina>
+    <Id>йцукф</Id>
+    <Question>фывап</Question>
+    <CorrectAnswer>ячмии</CorrectAnswer>
+  </Viktorina>
+  <Viktorina>
+    <Id>ыпичсм</Id>
+    <Question>аеп</Question>
+    <CorrectAnswer>ячсук</CorrectAnswer>
+  </Viktorina>
+  <Viktorina>
+    <Id>йцуккк</Id>
+    <Question>ййй</Question>
+    <CorrectAnswer>ццц</CorrectAnswer>
+  </Viktorina>
+  <Viktorina>
+    <Id>111</Id>
+    <Question>111</Question>
+    <CorrectAnswer>111</CorrectAnswer>
+  </Viktorina>
+  <Viktorina>
+    <Id>222</Id>
+    <Question>222</Question>
+    <CorrectAnswer>222</CorrectAnswer>
+  </Viktorina>
+</Viktorina>

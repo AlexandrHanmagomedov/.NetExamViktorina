@@ -1,0 +1,16 @@
+F:\C#\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.exe.config
+F:\C#\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.exe
+F:\C#\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.pdb
+F:\C#\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.AssemblyReference.cache
+F:\C#\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.SuggestedBindingRedirects.cache
+F:\C#\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.CoreCompileInputs.cache
+F:\C#\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.exe
+F:\C#\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.pdb
+D:\downloads\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.exe.config
+D:\downloads\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.exe
+D:\downloads\Viktorina\UtilityforViktorina\bin\Debug\UtilityforViktorina.pdb
+D:\downloads\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.AssemblyReference.cache
+D:\downloads\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.SuggestedBindingRedirects.cache
+D:\downloads\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.csproj.CoreCompileInputs.cache
+D:\downloads\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.exe
+D:\downloads\Viktorina\UtilityforViktorina\obj\Debug\UtilityforViktorina.pdb
